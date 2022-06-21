@@ -1,5 +1,4 @@
-# Learning-Programming
-Noob stuff
+# Dictionary Spell-checker
+Implemented in C++
 
-
-lol what did you expect 
+Idk what to type here lol
