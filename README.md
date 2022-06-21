@@ -1,17 +1,21 @@
 # Dictionary Spell-checker
-Implemented in C++
-Usage: ./dictionary dictionaries/large.txt texts/holmes.txt
+<h1>Implemented in C++</h1>
+<p>Usage: ./dictionary dictionaries/large.txt texts/holmes.txt<p>
 
-    SPELLCHECK RESULTS:
-    Holmes:
-        Dictionary loading (large.txt, 143091 words): 89.1131ms
-        Text loading: 282.048ms
-        Spellchecking: 4342.48ms
-        No. of misspelled words: 36762
-        Total no. of words: 1133014
-    Lalaland:
-        Dictionary loading: 90.7184ms
-        Text loading: 11.3883ms
-        Spellchecking: 60.5495ms
-        No. of misspelled words: 1050
-        Total no. of words: 17595
+<h1>SPELLCHECK RESULTS:</h1>
+Holmes:
+<ul>
+    <li>Dictionary loading (large.txt, 143091 words): 89.1131ms</li>
+    <li>Text loading: 282.048ms</li>
+    <li>Spellchecking: 4342.48ms</li>
+    <li>No. of misspelled words: 36762</li>
+    <li>Total no. of words: 1133014</li>
+</ul>
+Lalaland:
+<ul>
+    <li>Dictionary loading: 90.7184ms</li>
+    <li>Text loading: 11.3883ms</li>
+    <li>Spellchecking: 60.5495ms</li>
+    <li>No. of misspelled words: 1050</li>
+    <li>Total no. of words: 17595</li>
+</ul>
