@@ -1,6 +1,6 @@
 <h1>Dictionary Spell-checker</h1>
-<p style="font-family: "Lucida Console", monospace;">Implemented in C++</p>
-<p>Usage: ./dictionary dictionaries/large.txt texts/holmes.txt<p>
+Implemented in C++  
+Usage: ./dictionary dictionaries/large.txt texts/holmes.txt
 
 <h1>SPELLCHECK RESULTS:</h1>
 Holmes:
