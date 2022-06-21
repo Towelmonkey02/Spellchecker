@@ -11,7 +11,7 @@ Random bolded text
     <li>Spellchecking: 4342.48ms</li>
     <li>No. of misspelled words: 36762</li>
     <li>Total no. of words: 1133014</li>
-</ul>
+</ul>  
 **Lalaland:**  
 Why is this happening to me
 - Dictionary loading: 90.7184ms  
