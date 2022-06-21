@@ -12,7 +12,7 @@ Random bolded text
     <li>No. of misspelled words: 36762</li>
     <li>Total no. of words: 1133014</li>
 </ul>  
-**Lalaland:**  
+**Lalaland:** why isnt my bold working :(  
 
 
 - Dictionary loading: 90.7184ms  
