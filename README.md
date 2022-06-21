@@ -1,5 +1,5 @@
-# Dictionary Spell-checker
-<h1>Implemented in C++</h1>
+<h1>Dictionary Spell-checker</h1>
+<p style="font-family: "Lucida Console", monospace;">Implemented in C++</p>
 <p>Usage: ./dictionary dictionaries/large.txt texts/holmes.txt<p>
 
 <h1>SPELLCHECK RESULTS:</h1>
