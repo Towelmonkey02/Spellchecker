@@ -1,9 +1,9 @@
-#Dictionary Spell-checker#  
-##Implemented in C++##  
-###Usage: `./dictionary dictionaries/large.txt texts/holmes.txt`###  
+# Dictionary Spell-checker #  
+## Implemented in C++ ##  
+### Usage: `./dictionary dictionaries/large.txt texts/holmes.txt` ###  
 **Random bolded text**  
   
-###SPELLCHECK RESULTS:###  
+### SPELLCHECK RESULTS: ###  
 Holmes:
 <ul>
     <li>Dictionary loading (large.txt, 143091 words): 89.1131ms</li>
